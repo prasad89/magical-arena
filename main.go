@@ -1,7 +1,7 @@
 package main
 
 import (
-	// "magical-arena/battle"
+	"magical-arena/battle"
 	"magical-arena/player"
 	
 )
@@ -12,5 +12,5 @@ func main() {
     player2 := player.CreatePlayer(2)
 
     // Start the magical arena battle
-    // battle.MagicalArena(player1, player2)
+    battle.MagicalArena(player1, player2)
 }
