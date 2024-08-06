@@ -191,8 +191,6 @@ magical-arena/
 ├── README.md             # Project documentation
 ├── player/               # Package for player-related functionality
 │   ├── player.go         # Player struct and creation function
-│   └── player_test.go    # Tests for player functionality
 ├── battle/               # Package for battle-related functionality
 │   ├── battle.go         # Battle logic and helper functions
-│   └── battle_test.go    # Tests for battle functionality
 ```
